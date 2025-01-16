@@ -1,15 +1,11 @@
 # 👋 Hi, I'm Paiam - Network Trainee
 
-Welcome to my GitHub profile! I am a passionate and dedicated **Network Trainee** with 2 years of experience in the field of computer networks. I am constantly learning and growing in areas like **network configuration, troubleshooting, and network security**. I am always eager to explore new networking technologies and improve my skills.
+Welcome to my GitHub profile! I am a passionate and dedicated **Network Trainee** with 2 years of experience in the field of Networking. I am constantly learning and growing in areas like **network configuration, troubleshooting, and network security**. I am always eager to explore new networking technologies and improve my skills.
 
 ## 🌱 Currently Learning
 
-- **IP Addressing & Subnetting**
-- **Routing Protocols (OSPF, EIGRP, RIP)**
-- **Network Security (Firewalls, VPNs, IDS/IPS)**
-- **Cisco and Juniper Networking Equipment**
-- **Wireless Networking & Configuration**
-- **Network Monitoring Tools (Wireshark, Nagios)**
+- **CCNA**
+
 
 ## 🛠️ Networking Tools & Technologies
 
@@ -32,26 +28,12 @@ Here's a glimpse of my GitHub activity:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
 
-## ✨ Featured Projects
-
-Here are a few of my projects related to networking:
-
-### 🌐 [Network Configuration Scripts](https://github.com/yourusername/network-config-scripts)
-A collection of simple automation scripts for configuring routers, switches, and network devices. Aimed at simplifying common network setup tasks.
-
-### 🔒 [Network Security Practices](https://github.com/yourusername/network-security-practices)
-A repository showcasing best practices in network security, including firewall configuration, VPN setup, and secure network protocols.
-
-### 📊 [Network Monitoring with Wireshark](https://github.com/yourusername/network-monitoring-wireshark)
-A tutorial repository demonstrating the use of Wireshark for packet analysis and troubleshooting network issues. Includes capture files and analysis examples.
-
 ## 📫 How to Reach Me
 
 Feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/payam-esmaeili/)
+- [Email](mailto:payamesmaeili2005@gmail.com)
 
 ## 💬 Ask Me About
 
@@ -60,10 +42,6 @@ Feel free to reach out:
 - Network Security & Firewalls
 - Wireless Networking
 - Open-Source Networking Projects
-
-## 🧑‍💻 Coding Activity
-
-![Your Coding Activity](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
 <!--
 **yourusername/yourusername** is a special repository you can use to showcase your personal README. To learn more about it, visit https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/setting-up-your-projects-readme
