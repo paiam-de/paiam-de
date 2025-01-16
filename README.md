@@ -18,7 +18,7 @@ Here are some technologies and tools I frequently work with:
   <img src="https://img.shields.io/badge/Network_Configuration-F38DB6?style=flat&logo=network&logoColor=white" />
 </div>
 
-![Network Animation](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
+
 
 ## 📫 How to Reach Me
 
@@ -34,6 +34,9 @@ Feel free to reach out:
 - Network Security & Firewalls
 - Wireless Networking
 - Open-Source Networking Projects
+
+## 
+![Network Animation](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e4790281fp7hrogva77z11p8kqgyn1pedef70zsgx3a&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 <!--
 **yourusername/yourusername** is a special repository you can use to showcase your personal README. To learn more about it, visit https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/setting-up-your-projects-readme
