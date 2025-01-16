@@ -22,7 +22,7 @@ Here are some technologies and tools I frequently work with:
 
 Here's a glimpse of my GitHub activity:
 
-![Tech Stack](https://img.shields.io/badge/Technology-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tech Stack]([https://img.shields.io/badge/Technology-Python-3776AB?style=flat&logo=python&logoColor=white](https://raw.githubusercontent.com/Vann-Dev/Vann-Dev/output/snake.svg))
 
 ## 📫 How to Reach Me
 
