@@ -22,7 +22,7 @@ Here are some technologies and tools I frequently work with:
 
 Here's a glimpse of my GitHub activity:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
+![Tech Stack](https://img.shields.io/badge/Technology-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📫 How to Reach Me
 
