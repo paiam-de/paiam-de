@@ -14,10 +14,6 @@ Here are some technologies and tools I frequently work with:
 <div>
   <img src="https://img.shields.io/badge/Cisco-1E1E1E?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_Server-00A4EF?style=flat&logo=microsoft-windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Juniper-09A1D2?style=flat&logo=juniper&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firewalls-9B0C0D?style=flat&logo=firewall&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-4884d8?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/VPN-2C3E50?style=flat&logo=vpn&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Configuration-F38DB6?style=flat&logo=network&logoColor=white" />
 </div>
