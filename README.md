@@ -18,11 +18,6 @@ Here are some technologies and tools I frequently work with:
   <img src="https://img.shields.io/badge/Network_Configuration-F38DB6?style=flat&logo=network&logoColor=white" />
 </div>
 
-## 📈 GitHub Stats
-
-Here's a glimpse of my GitHub activity:
-
-![Tech Stack]([https://img.shields.io/badge/Technology-Python-3776AB?style=flat&logo=python&logoColor=white](https://raw.githubusercontent.com/Vann-Dev/Vann-Dev/output/snake.svg))
 
 ## 📫 How to Reach Me
 
