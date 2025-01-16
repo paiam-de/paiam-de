@@ -18,6 +18,7 @@ Here are some technologies and tools I frequently work with:
   <img src="https://img.shields.io/badge/Network_Configuration-F38DB6?style=flat&logo=network&logoColor=white" />
 </div>
 
+![Network Animation](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
 
 ## 📫 How to Reach Me
 
